@@ -1,0 +1,363 @@
+.CARD-GAME {
+  background-color: #ffffff;
+  height: 1194px;
+  width: 1440px;
+}
+
+.CARD-GAME .GAME-AREA {
+  height: 1146px;
+  left: 15px;
+  position: relative;
+  top: 25px;
+  width: 1409px;
+}
+
+.CARD-GAME .overlap {
+  height: 1146px;
+  position: relative;
+}
+
+.CARD-GAME .ENEMY {
+  height: 574px;
+  left: 0;
+  position: absolute;
+  top: 572px;
+  width: 1408px;
+}
+
+.CARD-GAME .div {
+  height: 394px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1408px;
+}
+
+.CARD-GAME .overlap-group {
+  height: 394px;
+  position: relative;
+}
+
+.CARD-GAME .ENEMY-DECK-AMMOUNT {
+  height: 394px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 210px;
+}
+
+.CARD-GAME .DECK-AMMOUNT {
+  height: 38px;
+  left: 22px;
+  position: absolute;
+  top: 0;
+  width: 146px;
+}
+
+.CARD-GAME .text-wrapper {
+  color: #000000;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  height: 16px;
+  left: 58px;
+  letter-spacing: -0.64px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.CARD-GAME .text-wrapper-2 {
+  color: #000000;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  height: 16px;
+  left: 0;
+  letter-spacing: -0.64px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.CARD-GAME .SIDE-LEFT {
+  background-color: #d9d9d9;
+  height: 349px;
+  left: 0;
+  position: absolute;
+  top: 45px;
+  width: 210px;
+}
+
+.CARD-GAME .SIDE-RIGHT {
+  background-color: #d9d9d9;
+  height: 349px;
+  left: 1201px;
+  position: absolute;
+  top: 45px;
+  width: 207px;
+}
+
+.CARD-GAME .ENEMY-2 {
+  height: 349px;
+  left: 231px;
+  position: absolute;
+  top: 45px;
+  width: 945px;
+}
+
+.CARD-GAME .rectangle {
+  background-color: #d9d9d9;
+  height: 167px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 944px;
+}
+
+.CARD-GAME .rectangle-2 {
+  background-color: #d9d9d9;
+  height: 167px;
+  left: 0;
+  position: absolute;
+  top: 182px;
+  width: 944px;
+}
+
+.CARD-GAME .BOTTOM-BAR {
+  background-color: #d9d9d9;
+  height: 167px;
+  left: 0;
+  position: absolute;
+  top: 407px;
+  width: 1408px;
+}
+
+.CARD-GAME .OWNER {
+  height: 569px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 1408px;
+}
+
+.CARD-GAME .overlap-group-wrapper {
+  height: 389px;
+  left: 0;
+  position: absolute;
+  top: 180px;
+  width: 1408px;
+}
+
+.CARD-GAME .overlap-group-2 {
+  height: 389px;
+  position: relative;
+}
+
+.CARD-GAME .OWNER-2 {
+  height: 349px;
+  left: 232px;
+  position: absolute;
+  top: 0;
+  width: 943px;
+}
+
+.CARD-GAME .rectangle-3 {
+  background-color: #d9d9d9;
+  height: 167px;
+  left: 1px;
+  position: absolute;
+  top: 0;
+  width: 942px;
+}
+
+.CARD-GAME .rectangle-4 {
+  background-color: #d9d9d9;
+  height: 167px;
+  left: 0;
+  position: absolute;
+  top: 182px;
+  width: 942px;
+}
+
+.CARD-GAME .SIDE {
+  height: 389px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1408px;
+}
+
+.CARD-GAME .SIDE-LEFT-2 {
+  background-color: #d9d9d9;
+  height: 349px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 210px;
+}
+
+.CARD-GAME .DECK {
+  height: 389px;
+  left: 1198px;
+  position: absolute;
+  top: 0;
+  width: 210px;
+}
+
+.CARD-GAME .DECK-AMMOUNT-2 {
+  height: 38px;
+  left: 36px;
+  position: absolute;
+  top: 351px;
+  width: 146px;
+}
+
+.CARD-GAME .img {
+  height: 349px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 210px;
+}
+
+.CARD-GAME .TOP-BAR {
+  background-color: #d9d9d9;
+  height: 167px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1408px;
+}
+
+.CARD-GAME .INFO {
+  height: 52px;
+  left: 233px;
+  position: absolute;
+  top: 548px;
+  width: 942px;
+}
+
+.CARD-GAME .overlap-2 {
+  height: 52px;
+  position: relative;
+}
+
+.CARD-GAME .MIDDLE-DETAIL {
+  background-color: #d9d9d9;
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 942px;
+}
+
+.CARD-GAME .MANA-DETAILS {
+  height: 24px;
+  left: 19px;
+  position: relative;
+  top: 14px;
+  width: 118px;
+}
+
+.CARD-GAME .text-wrapper-3 {
+  color: #000000;
+  font-family: "Montserrat", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  height: 24px;
+  left: 0;
+  letter-spacing: -0.64px;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.CARD-GAME .QUANTIDADE {
+  color: #000000;
+  font-family: "Montserrat", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  height: 24px;
+  left: 78px;
+  letter-spacing: -0.64px;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.CARD-GAME .game-buttons {
+  height: 36px;
+  left: 694px;
+  position: absolute;
+  top: 9px;
+  width: 241px;
+}
+
+.CARD-GAME .TURN-button {
+  height: 35px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 124px;
+}
+
+.CARD-GAME .div-wrapper {
+  background-image: url(../../../static/img/button.svg);
+  background-size: 100% 100%;
+  height: 35px;
+  position: relative;
+  width: 122px;
+}
+
+.CARD-GAME .text-wrapper-4 {
+  color: #000000;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  height: 16px;
+  left: 1px;
+  letter-spacing: -0.64px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.CARD-GAME .CHAT-button {
+  height: 35px;
+  left: 135px;
+  position: absolute;
+  top: 0;
+  width: 108px;
+}
+
+.CARD-GAME .overlap-3 {
+  background-image: url(../../../static/img/chat-button.svg);
+  background-size: 100% 100%;
+  height: 35px;
+  position: relative;
+  width: 106px;
+}
+
+.CARD-GAME .text-wrapper-5 {
+  color: #000000;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  height: 11px;
+  left: 3px;
+  letter-spacing: -0.64px;
+  line-height: 16px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+}
